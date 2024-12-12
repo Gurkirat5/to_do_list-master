@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922297599422",
+    "project_id": "rdp-todolist-23ec4",
+    "storage_bucket": "rdp-todolist-23ec4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922297599422:android:f7854f2258bdb4b72065ef",
+        "android_client_info": {
+          "package_name": "com.alin.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQr2vv46rB3ixIpThXG3aiQwyPXu6mTHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
